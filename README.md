@@ -87,11 +87,10 @@ If you want to access the chat from a mobile device, make sure:
    ```
 3. Use **port forwarding** in VS Code or directly access via the local IP.
 
----
-
----
-
 ## **📸 Screenshots**
+
+![image](https://github.com/user-attachments/assets/c18fcac1-d841-4bbe-8792-e32616229d93) ![image](https://github.com/user-attachments/assets/938441c7-4a79-4c87-a9cc-4fc105a42554)
+![image](https://github.com/user-attachments/assets/8cc1b769-c0a9-4a1f-9d6e-4bf0d427a2b1)
 
 
 ---
